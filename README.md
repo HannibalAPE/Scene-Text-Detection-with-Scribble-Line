@@ -3,6 +3,7 @@ Accepted by ICDAR2021
 
 
 ## Weak Annotations
+- Note: some images of the original datasets need to be rotataed 90° to ues the following annotations. We will share the image list as soon as possible.
 - Google Drive: https://drive.google.com/file/d/1Z4iAF4jLdZ6GZNGNgbFxa1HeHMRsqz4J/view?usp=sharing
 
 ## Citing the related works
